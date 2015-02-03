@@ -1,4 +1,4 @@
 ca-roussillon-citrous-bus-android
 =================================
 
-Roussillon CIT Bus for MonTransit
+Roussillon CIT Bus for MonTransit BETA
