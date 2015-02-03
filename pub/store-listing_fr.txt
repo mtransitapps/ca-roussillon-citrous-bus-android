@@ -2,11 +2,17 @@ Title: Bus CIT Roussillon (MonTransit)
 ----------
 Short description: Informations des bus CIT Roussillon pour MonTransit BETA.
 ----------
+What's new in this version?:
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+
+Horaires du 19 Janvier 2015 au 9 Janvier 2020.
+----------
 Full description:
-BETA : TEST EN COURS
-Pour quitter le test : http://goo.gl/r82Dqz
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Cette application ajoute les informations des bus CIT Roussillon à MonTransit BETA.
+
+Le CIT Roussillon dessert Delson, Saint-Constant et Sainte-Catherine.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations du bus (horaires ...).
 
