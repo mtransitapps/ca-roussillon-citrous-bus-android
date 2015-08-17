@@ -5,7 +5,7 @@ Autobus CIT Roussillon pour MonTransit.
 Horaires. Tweets de @CITRoussillon.
 ----------
 What's new in this version?:
-Horaires du 31 mai 2015 au 9 janvier 2020.
+Horaires du 31 mai 2015 au 23 août 2015.
 Tweets de @CITRoussillon.
 ----------
 Full description:
