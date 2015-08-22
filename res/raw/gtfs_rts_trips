@@ -6,7 +6,7 @@
 3300,0,'Stationnement Georges-Gagné',33
 3401,0,'St-Constant',34
 3501,0,'St-Constant',35
-3600,0,'Delson Sud',36
+3600,0,'Delson Sud AM',36
 3601,0,'Delson Sud PM',36
 3800,0,'Service AM',38
 3801,0,'Service PM',38
@@ -17,7 +17,7 @@
 13001,0,'Delson',130
 13000,0,'Montréal',130
 13401,0,'Ste-Catherine',134
-20001,0,'Delson',200
 20000,0,'Montréal',200
+20001,0,'Montréal-Delson',200
 21000,0,'Delson-Longueuil-Delson',210
 21001,0,'Longueuil-Delson',210
