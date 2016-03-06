@@ -2,14 +2,14 @@
 3000,0,'Ste-Catherine / St-Constant',30
 3100,0,'Ste-Catherine',31
 3200,0,'Ste-Catherine',32
-3301,0,'Gare Ste-Catherine',33
-3300,0,'Stationnement Georges-Gagné',33
+3301,0,'AM',33
+3300,0,'PM',33
 3401,0,'St-Constant',34
 3501,0,'St-Constant',35
-3600,0,'Delson Sud AM',36
-3601,0,'Delson Sud PM',36
-3800,0,'Service AM',38
-3801,0,'Service PM',38
+3600,0,'AM',36
+3601,0,'PM',36
+3800,0,'AM',38
+3801,0,'PM',38
 10001,0,'Delson',100
 10000,0,'Montréal',100
 11501,0,'Delson',115
@@ -17,7 +17,7 @@
 13001,0,'Delson',130
 13000,0,'Montréal',130
 13401,0,'Ste-Catherine',134
+20001,0,'Delson',200
 20000,0,'Montréal',200
-20001,0,'Montréal-Delson',200
-21000,0,'Delson-Longueuil-Delson',210
-21001,0,'Longueuil-Delson',210
+21000,0,'AM',210
+21001,0,'PM',210
