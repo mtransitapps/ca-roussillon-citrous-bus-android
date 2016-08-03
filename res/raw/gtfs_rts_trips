@@ -1,22 +1,29 @@
-3001,0,'Ste-Catherine',30
-3000,0,'Ste-Catherine / St-Constant',30
+3001,0,'St-Constant',30
+3000,0,'Ste-Catherine',30
 3100,0,'Ste-Catherine',31
 3200,0,'Ste-Catherine',32
 3301,0,'AM',33
 3300,0,'PM',33
 3401,0,'St-Constant',34
-3501,0,'St-Constant',35
+3501,0,'AM',35
+3500,0,'PM',35
 3600,0,'AM',36
 3601,0,'PM',36
-3700,0,'Stat Incitatif Georges-Gagné',37
+3700,0,'Delson - Ste-Catherine',37
 3800,0,'AM',38
 3801,0,'PM',38
 3900,0,'Ste-Catherine',39
+4000,0,'AM',40
+4001,0,'PM',40
+4100,0,'Delson',41
+4101,0,'Ste-Catherine',41
+4200,0,'Candiac',42
+4201,0,'Delson',42
 10001,0,'Delson',100
 10000,0,'Montréal',100
 13001,0,'Delson',130
 13000,0,'Montréal',130
-20001,0,'Delson',200
-20000,0,'Montréal',200
+20000,0,'AM',200
+20001,0,'PM',200
 21000,0,'AM',210
 21001,0,'PM',210
