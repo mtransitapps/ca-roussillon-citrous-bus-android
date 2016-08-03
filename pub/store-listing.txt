@@ -5,7 +5,7 @@ CIT Roussillon buses for MonTransit.
 Schedules. Tweets from @CITRoussillon.
 ----------
 What's new in this version?:
-Schedule from May 30, 2016 to January 20, 2020.
+Schedule from August 1, 2016 to January 20, 2020.
 Tweets from @CITRoussillon.
 ----------
 Full description:
