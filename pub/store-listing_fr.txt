@@ -1,19 +1,19 @@
-Title: Bus CIT Roussillon - MonTrans…
+Title: Bus RTM (CIT) Roussillon - MonTrans…
 ----------
 Short description:
-Autobus CIT Roussillon pour MonTransit.
-Horaires. Tweets de @CITRoussillon.
+Autobus RTM (CIT) Roussillon pour MonTransit.
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 27 mai 2018 au 20 janvier 2020.
-Tweets de @CITRoussillon.
+Tweets de @exo_Roussillon.
 ----------
 Full description:
-Cette application ajoute les informations des autobus CIT Roussillon à MonTransit.
+Cette application ajoute les informations des autobus RTM (CIT) Roussillon à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @CITRoussillon sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @exo_Roussillon sur Twitter.
 
-Le CIT Roussillon dessert Delson, Saint-Constant et Sainte-Catherine.
+Le RTM (CIT) Roussillon dessert Delson, Saint-Constant et Sainte-Catherine.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -27,7 +27,7 @@ https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-roussillon-citrous-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Roussillon.
+Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM (CIT) Roussillon.
 
 Autorisations :
 - Autres: requis pour lire les nouvelles (Twitter)
