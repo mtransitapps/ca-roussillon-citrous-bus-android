@@ -1,4 +1,4 @@
-# CIT Roussillon Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# exo Roussillon Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-roussillon-citrous-bus-android/master/pub/hi-res-app-icon.png"/>
 
