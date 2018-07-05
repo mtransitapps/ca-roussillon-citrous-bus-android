@@ -1,19 +1,20 @@
-Title: Bus RTM (CIT) Roussillon - MonTrans…
+Title: Bus exo Roussillon - MonTransit
 ----------
 Short description:
 Autobus RTM (CIT) Roussillon pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Horaires du 27 mai 2018 au 20 janvier 2020.
 Tweets de @exo_Roussillon.
 ----------
 Full description:
-Cette application ajoute les informations des autobus RTM (CIT) Roussillon à MonTransit.
+Cette application ajoute les informations des autobus exo Roussillon à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de @exo_Roussillon sur Twitter.
 
-Le RTM (CIT) Roussillon dessert Delson, Saint-Constant et Sainte-Catherine.
+exo Roussillon dessert Delson, Saint-Constant et Sainte-Catherine au Québec, Canada.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -21,13 +22,16 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-roussillon-citrous-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM (CIT) Roussillon.
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Roussillon.
+
+exo Roussillon était précédemment connu sous le nom de RTM Secteur Haut-Saint-Laurent et CIT Roussillon.
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
 - Autres: requis pour lire les nouvelles (Twitter)
