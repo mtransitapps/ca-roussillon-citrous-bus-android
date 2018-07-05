@@ -1,11 +1,11 @@
 Title: exo Roussillon Bus - MonTransit
 ----------
 Short description:
-(AMT/CIT => RTM => exo)
 exo Roussillon buses for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Schedule from May 27, 2018 to January 20, 2020.
 Tweets from @exo_Roussillon.
 ----------
