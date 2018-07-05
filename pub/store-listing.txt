@@ -30,8 +30,8 @@ https://github.com/mtransitapps/ca-roussillon-citrous-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Roussillon.
 
-exo Roussillon was formely know as RTM Roussillon sector and CIT Roussillon.
-exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+exo Roussillon was formerly known as RTM Roussillon sector and CIT Roussillon.
+exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
 - Other: required to read news (Twitter)
