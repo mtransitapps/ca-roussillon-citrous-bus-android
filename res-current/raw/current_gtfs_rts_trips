@@ -1,5 +1,5 @@
-3001,0,'A St-Constant - Ste-Catherine',30
-3000,0,'B Ste-Catherine - St-Constant',30
+3000,0,'St-Constant',30
+3001,0,'Ste-Catherine',30
 3100,0,'Ste-Catherine',31
 3200,0,'Ste-Catherine',32
 3301,0,'AM',33
@@ -14,6 +14,8 @@
 4001,0,'PM',40
 10001,0,'Delson',100
 10000,0,'Montréal',100
+11501,0,'Delson',115
+11500,0,'Montréal',115
 13001,0,'Delson',130
 13000,0,'Montréal',130
 20000,0,'AM',200
