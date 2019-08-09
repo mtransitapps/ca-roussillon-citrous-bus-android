@@ -4,7 +4,7 @@
 76004,'76004','Mtée Des Bouleaux / Collège',45.377623,-73.545088
 76005,'76005','Mtée Des Bouleaux / Georges-Gagné',45.378734,-73.550165
 76006,'76006','Mtée Des Bouleaux / Richer',45.378662,-73.554832
-76007,'76007','Terminus Panama',45.467586,-73.468617
+76007,'76007','Terminus Panama',45.465724,-73.468275
 76008,'76008','Mtée Des Bouleaux / Circé',45.378809,-73.559368
 76009,'76009','St-Pierre / St-Jacques',45.378378,-73.564699
 76010,'76010','St-Pierre / Perras',45.375596,-73.567118
@@ -56,7 +56,7 @@
 76077,'76077','Roland-Therrien / Auteuil',45.547734,-73.495359
 76078,'76078','St-Jean / Bédard',45.396821,-73.573816
 76079,'76079','Brébeuf / Colibris',45.394614,-73.566216
-76080,'76080','Stat Incitatif Georges-Gagné',45.384514,-73.547903
+76080,'76080','Stat Incitatif Georges-Gagné Quai 1',45.384414,-73.547999
 76081,'76081','Centrale / St-Jean',45.397533,-73.577955
 76083,'76083','Gare Ste-Catherine',45.382082,-73.600023
 76084,'76084','Ste-Catherine / Marotte',45.384849,-73.596587
@@ -101,13 +101,13 @@
 76139,'76139','Proulx / Leduc',45.389478,-73.579475
 76140,'76140','Leduc / Levasseur',45.389296,-73.578499
 76141,'76141','Mtée Des Bouleaux / Collège',45.377584,-73.545427
-76142,'76142','Terminus Centre-Ville',45.498059,-73.565987
+76142,'76142','Terminus Centre-Ville Porte 13',45.498142,-73.565918
 76143,'76143','Maçon / Magdeleine',45.392686,-73.589926
 76145,'76145','St-Pierre / St-Jacques',45.378145,-73.564606
 76146,'76146','Mtée Des Bouleaux / Circé',45.378709,-73.559713
 76147,'76147','Mtée Des Bouleaux / Cheminots',45.378678,-73.556459
 76148,'76148','Mtée Des Bouleaux / Georges-Gagné',45.378618,-73.550913
-76149,'76149','Terminus Angrignon',45.446418,-73.60475
+76149,'76149','Terminus Angrignon Quai 19',45.446554,-73.605265
 76150,'76150','Georges-Gagné / Viau',45.381122,-73.54906
 76153,'76153','Leduc / Laplante',45.388796,-73.576565
 76155,'76155','Mtée Des Bouleaux / Principale',45.376507,-73.540835
@@ -214,7 +214,7 @@
 76284,'76284','Lapierre / Cégep André-Laurendeau',45.435042,-73.605184
 76285,'76285','Newman / Carref. Angrignon',45.445822,-73.612398
 76286,'76286','Lapierre / Newman',45.439564,-73.62232
-76288,'76288','Terminus Mansfield',45.498408,-73.564773
+76288,'76288','Terminus Mansfield Quai 2',45.498401,-73.56419
 76290,'76290','Duke / William',45.497415,-73.558474
 76292,'76292','Ste-Catherine / Longtin',45.379604,-73.564948
 76293,'76293','Ste-Catherine / Léger',45.379875,-73.566081
@@ -262,7 +262,7 @@
 76396,'76396','Mtée St-Régis / Bassin',45.368446,-73.580951
 76397,'76397','Mtée St-Régis / Bassin',45.368439,-73.580578
 76398,'76398','Mtée St-Régis / Monchamp',45.370074,-73.58508
-76399,'76399','Gare St-Constant',45.374162,-73.570739
+76399,'76399','Gare St-Constant',45.373754,-73.568802
 76400,'76400','St-Laurent / Bédard',45.399267,-73.572414
 76402,'76402','St-Laurent / Chalutier',45.394182,-73.553781
 76403,'76403','St-Laurent / Boulet',45.396725,-73.568091
@@ -294,8 +294,8 @@
 76435,'76435','Renoir / Rembrandt',45.375623,-73.605892
 76436,'76436','Rembrandt / Renoir',45.375747,-73.605831
 76437,'76437','Monchamp / Mairie',45.373977,-73.583854
-76438,'76438','Riopelle / Ste-Catherine',45.376982,-73.601281
-76439,'76439','Ste-Catherine / Riopelle',45.377072,-73.601141
+76438,'76438','Riopelle / Ch Ste-Catherine',45.376982,-73.601281
+76439,'76439','Ch Ste-Catherine / Riopelle',45.377072,-73.601141
 76440,'76440','Ronsard / Rabelais',45.37729,-73.609912
 76441,'76441','Ronsard / Renoir',45.379057,-73.607621
 76442,'76442','Renoir / Riopelle',45.378152,-73.607812
