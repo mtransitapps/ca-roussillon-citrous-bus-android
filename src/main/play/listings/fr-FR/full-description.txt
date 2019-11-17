@@ -1,15 +1,3 @@
-Title: Bus exo Roussillon - MonTransit
-----------
-Short description:
-Autobus exo Roussillon pour MonTransit.
-Horaires. Nouvelles.
-----------
-What's new in this version?:
-(AMT/CIT => RTM => exo)
-Horaires du 7 octobre 2019 au 24 novembre 2019.
-Tweets de @exo_Roussillon.
-----------
-Full description:
 Cette application ajoute les informations des autobus exo Roussillon à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de @exo_Roussillon sur Twitter.
