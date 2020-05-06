@@ -8,13 +8,10 @@
 76008,'76008','Mtée Des Bouleaux / Circé',45.378809,-73.559368
 76009,'76009','St-Pierre / St-Jacques',45.378378,-73.564699
 76010,'76010','St-Pierre / Perras',45.375596,-73.567118
-76011,'76011','Mairie / St-Pierre',45.371894,-73.570429
-76012,'76012','Cégep Édouard-Montpetit',45.536677,-73.496276
 76013,'76013','St-Laurent / Promenade Du Collège',45.393956,-73.550654
 76014,'76014','Jogues / Talon',45.387195,-73.551393
 76015,'76015','Jogues / Acadia',45.390888,-73.549613
 76016,'76016','Jogues / St-Laurent',45.393248,-73.548388
-76017,'76017','Mtée St-Régis / Pierre-Dupuis',45.367476,-73.577153
 76018,'76018','Terminus Panama',45.465956,-73.467789
 76020,'76020','Mairie / Bassin',45.373664,-73.577933
 76021,'76021','Mairie / Petit-St-Régis Sud',45.374233,-73.58037
@@ -37,26 +34,17 @@
 76043,'76043','Jogues / Acadia',45.39105,-73.549691
 76044,'76044','Jogues / Talon',45.387339,-73.55159
 76046,'76046','St-Laurent / Centrale',45.400489,-73.576109
-76050,'76050','Brébeuf / Marie-Victorin',45.403332,-73.561743
-76051,'76051','Brébeuf / Portage',45.398872,-73.56404
 76054,'76054','St-Laurent / Écluses',45.394193,-73.55656
-76055,'76055','Écluses / Marguerites',45.396909,-73.558276
-76056,'76056','Écluses / Marins',45.398927,-73.559149
-76057,'76057','Marie-Victorin / Écluses',45.402431,-73.557854
 76063,'76063','St-Laurent / Faucons',45.394391,-73.559614
 76064,'76064','St-Laurent / Éperviers',45.395307,-73.563303
 76065,'76065','St-Laurent / Brébeuf',45.39588,-73.565485
-76066,'76066','Terminus Longueuil Porte 20',45.523797,-73.522256
 76067,'76067','Brébeuf / Ormes',45.390314,-73.568376
 76068,'76068','Ormes / Saules',45.391019,-73.57023
 76069,'76069','Ormes / Marronniers',45.391507,-73.572878
 76070,'76070','Ormes / Merisiers',45.391919,-73.574551
 76071,'76071','Merisiers / Croissant Des Cèdres',45.394458,-73.573453
 76074,'76074','Centrale / Devant Le #1724',45.394413,-73.579653
-76076,'76076','Écluses / St-Laurent',45.39497,-73.557365
-76077,'76077','Roland-Therrien / Auteuil',45.547734,-73.495359
 76078,'76078','St-Jean / Bédard',45.396821,-73.573816
-76079,'76079','Brébeuf / Colibris',45.394614,-73.566216
 76080,'76080','Stat Incitatif Georges-Gagné - Quai 1',45.384414,-73.547999
 76081,'76081','Centrale / St-Jean',45.397533,-73.577955
 76083,'76083','Gare Ste-Catherine',45.381625,-73.598659
@@ -72,9 +60,6 @@
 76095,'76095','Proulx / Lausanne',45.38757,-73.580538
 76098,'76098','Ste-Catherine / Monchamp',45.384067,-73.584443
 76099,'76099','Vincent / Monchamp',45.381447,-73.585322
-76106,'76106','Olivier / Oseraie',45.380166,-73.580741
-76107,'76107','Olivier / Petit-St-Régis Nord',45.379533,-73.577968
-76108,'76108','Petit-St-Régis Nord / Ste-Catherine',45.382162,-73.576806
 76109,'76109','Ste-Catherine / St-Charles',45.381506,-73.573683
 76110,'76110','Ste-Catherine / Cartier',45.380798,-73.570839
 76111,'76111','Ste-Catherine / Berri',45.380169,-73.567958
@@ -87,7 +72,6 @@
 76119,'76119','Marie-Victorin / Devant CLSC Candiac',45.398856,-73.526406
 76120,'76120','Ste-Catherine / Valois',45.385053,-73.589369
 76121,'76121','Ste-Catherine / Monchamp',45.384241,-73.585783
-76122,'76122','Vérendrye / Jolicoeur (Métro Jolic',45.457111,-73.581231
 76123,'76123','Lausanne / Proulx',45.38741,-73.580707
 76124,'76124','Monchamp / Olivier',45.379903,-73.584585
 76125,'76125','Monchamp / Devant L''École Félix-Leclerc',45.378066,-73.583844
@@ -97,8 +81,6 @@
 76131,'76131','Monchamp / Tougas',45.375725,-73.584546
 76132,'76132','Monchamp / Avignon',45.375569,-73.584181
 76136,'76136','St-Pierre / Perras',45.375317,-73.56704
-76137,'76137','Cégep Édouard-Montpetit',45.536173,-73.496007
-76138,'76138','Roland-Therrien / Auteuil',45.548687,-73.4959
 76139,'76139','Proulx / Leduc',45.389478,-73.579475
 76140,'76140','Leduc / Levasseur',45.389296,-73.578499
 76141,'76141','Mtée Des Bouleaux / Collège',45.377584,-73.545427
@@ -108,7 +90,6 @@
 76146,'76146','Mtée Des Bouleaux / Circé',45.378709,-73.559713
 76147,'76147','Mtée Des Bouleaux / Cheminots',45.378678,-73.556459
 76148,'76148','Mtée Des Bouleaux / Georges-Gagné Sud',45.378618,-73.550913
-76149,'76149','Terminus Angrignon Quai 19',45.446554,-73.605265
 76150,'76150','Georges-Gagné Sud / Viau',45.381122,-73.54906
 76153,'76153','Leduc / Laplante',45.388796,-73.576565
 76155,'76155','Mtée Des Bouleaux / Principale',45.376507,-73.540835
@@ -117,7 +98,6 @@
 76158,'76158','Principale Sud / Gare Delson',45.366523,-73.541648
 76159,'76159','Roitelets / Pommetiers',45.367543,-73.548111
 76160,'76160','Érables / Roitelets',45.366599,-73.546374
-76161,'76161','St-Pierre / Mtée St-Régis',45.365672,-73.569976
 76163,'76163','Roitelets / Principale Sud',45.365386,-73.541484
 76164,'76164','Mtée St-Régis / Victoria',45.366941,-73.575058
 76165,'76165','Principale Sud / 4e Av.',45.372756,-73.541352
@@ -146,7 +126,6 @@
 76193,'76193','St-Pierre / Ste-Marie',45.380091,-73.563231
 76194,'76194','Georges-Gagné Sud / Viau',45.381329,-73.549131
 76195,'76195','Georges-Gagné Sud / Mtée Des Bouleaux',45.378794,-73.550407
-76196,'76196','St-Laurent / Léo',45.400964,-73.5839
 76197,'76197','Ste-Catherine / Proulx',45.383532,-73.58261
 76198,'76198','Ste-Catherine / Laplante',45.382806,-73.579456
 76199,'76199','Ste-Catherine / Petit-St-Régis Nord',45.382258,-73.577054
@@ -155,11 +134,8 @@
 76204,'76204','Mairie / 1re Av.',45.372199,-73.571597
 76205,'76205','Vincent / Valois',45.382541,-73.590295
 76206,'76206','Valois / Ste-Catherine',45.38495,-73.589179
-76207,'76207','1re Av. / Hébert',45.406266,-73.587284
 76209,'76209','1re Av. / Ste-Thérèse',45.375152,-73.542266
 76210,'76210','1re Av. / Collège',45.376036,-73.545927
-76211,'76211','Garnier / Hébert',45.403876,-73.601415
-76212,'76212','Garnier / Hébert',45.403682,-73.601011
 76213,'76213','Mairie / 2e Av.',45.37238,-73.572347
 76214,'76214','Mairie / 4e Av.',45.372844,-73.574558
 76216,'76216','Georges-Gagné Sud / Carignan',45.376696,-73.550882
@@ -190,32 +166,14 @@
 76247,'76247','Principale Sud / Mtée Des Bouleaux',45.376373,-73.540586
 76248,'76248','Maçon / Meunier',45.388528,-73.588116
 76249,'76249','Maçon / Monette',45.389037,-73.590651
-76250,'76250','Hébert / 1re Av.',45.406344,-73.587557
 76251,'76251','Maçon / Magdeleine',45.392468,-73.589858
-76252,'76252','St-Laurent / Léo',45.400744,-73.583911
 76253,'76253','Principale Nord / St-Laurent',45.390686,-73.538899
 76257,'76257','Principale Nord / Marie-Victorin',45.400473,-73.537693
 76261,'76261','Principale Nord / Marie-Victorin',45.400171,-73.538094
 76262,'76262','Principale Nord / St-Laurent',45.391051,-73.53913
 76266,'76266','Taschereau / Rome',45.455125,-73.465655
-76269,'76269','Place Du Grand-Duc / #4480',45.388604,-73.562589
-76270,'76270','Éperviers / Alouettes',45.393896,-73.56445
-76271,'76271','Éperviers / Harfangs',45.392595,-73.56508
-76272,'76272','Sarcelles / Cormorans',45.39219,-73.566394
-76273,'76273','Outardes / Carouges',45.389595,-73.566628
-76274,'76274','Orioles / Hérons',45.390576,-73.563535
-76275,'76275','Orioles / Harfangs',45.391851,-73.562884
-76276,'76276','Alouettes / Faucons',45.392842,-73.56068
 76277,'76277','Principale Sud / Monette',45.381449,-73.541229
 76278,'76278','Principale Sud / Delvista',45.379493,-73.540889
-76279,'76279','Newman / Carref. Angrignon',45.445667,-73.612108
-76280,'76280','Cégep André-Laurendeau',45.435195,-73.605093
-76281,'76281','Vérendrye / Dollard',45.423504,-73.622043
-76283,'76283','Airlie / Labatt',45.424101,-73.645546
-76284,'76284','Lapierre / Cégep André-Laurendeau',45.435042,-73.605184
-76285,'76285','Newman / Carref. Angrignon',45.44646,-73.611594
-76286,'76286','Lapierre / Newman',45.439123,-73.621737
-76288,'76288','Terminus Mansfield Quai 2',45.498401,-73.56419
 76290,'76290','Robert-Bourassa / William',45.497415,-73.558474
 76292,'76292','Ste-Catherine / Longtin',45.379604,-73.564948
 76293,'76293','Ste-Catherine / Léger',45.379875,-73.566081
@@ -235,18 +193,6 @@
 76310,'76310','Ormes / Saules',45.390978,-73.570426
 76311,'76311','Ormes / Brébeuf',45.390494,-73.568519
 76313,'76313','St-Laurent / Promenade Du Collège',45.393915,-73.550958
-76316,'76316','Industrielle / Fleming',45.372497,-73.532627
-76317,'76317','Industrielle / Théberge',45.370906,-73.529399
-76318,'76318','Industrielle / Liberté',45.367339,-73.522577
-76319,'76319','Liberté / Paul-Gauguin',45.37301,-73.526247
-76320,'76320','Paul-Gauguin / #20',45.376649,-73.529135
-76321,'76321','Liberté / St-François-Xavier',45.377961,-73.535607
-76322,'76322','Liberté / St-François-Xavier',45.377754,-73.53546
-76323,'76323','Paul-Gauguin / Devant Le #20',45.376522,-73.529297
-76324,'76324','Paul-Gauguin / Liberté',45.373181,-73.526437
-76325,'76325','Industrielle / Liberté',45.36747,-73.522413
-76326,'76326','Industrielle / Beauvais',45.370866,-73.52913
-76327,'76327','Industrielle / Fleming',45.372494,-73.532343
 76344,'76344','Principale Nord / Bellefleur',45.392642,-73.538951
 76345,'76345','Principale Nord / Corriveau',45.395154,-73.538639
 76346,'76346','Principale Nord / Soucy',45.397062,-73.53796
@@ -261,8 +207,6 @@
 76374,'76374','St-Laurent / Union',45.400194,-73.575472
 76395,'76395','Mtée St-Régis / Gaillarde',45.37132,-73.590747
 76396,'76396','Mtée St-Régis / Bassin',45.368446,-73.580951
-76397,'76397','Mtée St-Régis / Bassin',45.368439,-73.580578
-76398,'76398','Mtée St-Régis / Monchamp',45.370074,-73.58508
 76399,'76399','Gare St-Constant',45.373754,-73.568802
 76400,'76400','St-Laurent / Bédard',45.399267,-73.572414
 76401,'76401','Gare St-Constant',45.374124,-73.570611
@@ -276,15 +220,11 @@
 76410,'76410','Principale Nord / Soucy',45.397379,-73.538099
 76411,'76411','Principale Nord / Corriveau',45.395422,-73.538785
 76412,'76412','Principale Nord / Bellefleur',45.3929,-73.539288
-76413,'76413','Brébeuf / St-Laurent',45.395625,-73.565681
 76414,'76414','Maçon / Métras',45.387969,-73.583216
 76416,'76416','Monchamp / Mairie',45.374021,-73.584236
 76417,'76417','Cascades / Bateliers',45.396839,-73.552106
 76420,'76420','Georges-Gagné Sud / Mtée Des Bouleaux',45.378436,-73.550442
-76421,'76421','Airlie / 80e Av.',45.421637,-73.634834
-76422,'76422','Mtée St-Régis / Lasalle',45.366418,-73.573086
 76423,'76423','Georges-Gagné Sud / Maisonneuve',45.379255,-73.549859
-76424,'76424','Lapierre / Newman',45.439241,-73.621654
 76426,'76426','Riopelle / Rembrandt',45.37726,-73.605058
 76427,'76427','Mtée St-Régis / Genévrier',45.370503,-73.587403
 76428,'76428','Monchamp / Alisier',45.371062,-73.584555
@@ -321,8 +261,5 @@
 76460,'76460','Église / Prémontrés',45.365682,-73.579649
 76461,'76461','Église / Victoria',45.365402,-73.576313
 76462,'76462','Victoria / Mtée St-Régis',45.366817,-73.57535
-76558,'76558','Stat Incitatif Georges-Gagné - Quai 2',45.384609,-73.547932
 76559,'76559','Stat Incitatif Georges-Gagné - Quai 3',45.384521,-73.547688
 76560,'76560','Stat Incitatif Georges-Gagné - Quai 4',45.384404,-73.547734
-76561,'76561','Stat Incitatif Georges-Gagné - Quai Taxi',45.384311,-73.548103
-76562,'76562','Jolicoeur / Drake',45.457101,-73.581987
