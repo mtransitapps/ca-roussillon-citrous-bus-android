@@ -1,3 +1,4 @@
+74529,'74529','Robert-Bourassa / William',45.497412,-73.558424
 76001,'76001','Principale Sud / Monette',45.381698,-73.541486
 76002,'76002','Principale Sud / Delvista',45.379771,-73.541131
 76003,'76003','Principale Sud / Mtée Des Bouleaux',45.376629,-73.540685
@@ -13,6 +14,7 @@
 76015,'76015','Jogues / Acadia',45.390888,-73.549613
 76016,'76016','Jogues / St-Laurent',45.393248,-73.548388
 76018,'76018','Terminus Panama Temporaire Quai 14',45.465744,-73.470103
+76019,'76019','Ste-Catherine / Ronsard',45.378407,-73.600469
 76020,'76020','Mairie / Bassin',45.373664,-73.577933
 76021,'76021','Mairie / Petit-St-Régis Sud',45.374233,-73.58037
 76022,'76022','Mairie / Monchamp',45.374218,-73.58383
@@ -22,6 +24,7 @@
 76026,'76026','Monchamp / Ste-Catherine',45.38379,-73.584679
 76027,'76027','Ste-Catherine / Meunier',45.385113,-73.588966
 76028,'76028','Ste-Catherine / Croissant Ste-Catherine',45.38596,-73.593824
+76029,'76029','Ste-Catherine / Ronsard',45.378296,-73.600255
 76031,'76031','Maçon / Marcotte',45.389675,-73.590953
 76034,'76034','Centrale / St-Jean',45.397306,-73.577804
 76035,'76035','Centrale / St-Laurent',45.400329,-73.576244
@@ -188,7 +191,6 @@
 76276,'76276','Alouettes / Faucons',45.392842,-73.56068
 76277,'76277','Principale Sud / Monette',45.381449,-73.541229
 76278,'76278','Principale Sud / Delvista',45.379493,-73.540889
-76290,'76290','Robert-Bourassa / William',45.497415,-73.558474
 76292,'76292','Ste-Catherine / Longtin',45.379604,-73.564948
 76293,'76293','Ste-Catherine / Léger',45.379875,-73.566081
 76294,'76294','Ste-Catherine / Berri',45.380227,-73.567568
