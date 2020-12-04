@@ -13,22 +13,22 @@
 3801,0,'PM',38
 4000,0,'AM',40
 4001,0,'PM',40
-4300,0,'St-Constant / Delson',43
-10001,0,'Delson',100
-10000,0,'Montréal',100
-11500,0,'Montréal',115
-13001,0,'Delson',130
-13000,0,'Montréal',130
-20000,0,'AM',200
-20001,0,'PM',200
-21000,0,'AM',210
-21001,0,'PM',210
+4300,0,'St-Constant - Delson',43
+10001,0,'Stat Incitatif Georges-Gagné',100
+10000,0,'Terminus Centre-Ville',100
+11500,0,'Terminus Centre-Ville',115
+13001,0,'Stat Incitatif Georges-Gagné',130
+13000,0,'Terminus Centre-Ville',130
+20000,0,'Métro Angrignon - Cégep André-Laurendeau 0',200
+20001,0,'Métro Angrignon - Cégep André-Laurendeau 1',200
+21000,0,'Métro Longueuil - Cégep É-Montpetit 0',210
+21001,0,'Métro Longueuil - Cégep É-Montpetit 1',210
 2003600,0,'AM',20036
 2003601,0,'PM',20036
 2003900,0,'Ste-Catherine',20039
 2004100,0,'Delson',20041
 2004101,0,'Ste-Catherine',20041
-2004200,0,'Candiac',20042
 2004201,0,'Delson',20042
-2004300,0,'St-Constant / Delson',20043
-2010000,0,'Delson',20100
+2004200,0,'Parc Ind. De Candiac',20042
+2004300,0,'St-Constant - Delson',20043
+2010000,0,'Stat Incitatif Georges-Gagné',20100
