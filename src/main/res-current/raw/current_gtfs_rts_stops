@@ -1,5 +1,6 @@
 74464,'74464','Terminus Panama Temporaire Quai 11',45.46605,-73.470511
 74529,'74529','Robert-Bourassa / William',45.497412,-73.558424
+75018,'75018','Taschereau / Rome',45.454858,-73.465159
 76001,'76001','Principale Sud / Monette',45.381698,-73.541486
 76002,'76002','Principale Sud / Delvista',45.379771,-73.541131
 76003,'76003','Principale Sud / Mtée Des Bouleaux',45.376629,-73.540685
@@ -29,6 +30,7 @@
 76027,'76027','Ste-Catherine / Meunier',45.385113,-73.588966
 76028,'76028','Ste-Catherine / Croissant Ste-Catherine',45.38596,-73.593824
 76029,'76029','Ste-Catherine / Ronsard',45.378296,-73.600255
+76030,'76030','Mtée Des Bouleaux / Parc-Des-Maisons-Mobiles',45.379,-73.563254
 76031,'76031','Maçon / Marcotte',45.389675,-73.590953
 76034,'76034','Centrale / St-Jean',45.397306,-73.577804
 76035,'76035','Centrale / St-Laurent',45.400329,-73.576244
@@ -201,7 +203,6 @@
 76257,'76257','Principale Nord / Marie-Victorin',45.400473,-73.537693
 76261,'76261','Principale Nord / Marie-Victorin',45.400171,-73.538094
 76262,'76262','Principale Nord / St-Laurent',45.391051,-73.53913
-76266,'76266','Taschereau / Rome',45.455125,-73.465655
 76269,'76269','Place Du Grand-Duc / Devant Le #4480',45.388604,-73.562589
 76270,'76270','Éperviers / Alouettes',45.393896,-73.56445
 76271,'76271','Éperviers / Harfangs',45.392595,-73.56508
