@@ -1,4 +1,4 @@
-74464,'74464','Terminus Panama Temporaire Quai 11',45.46605,-73.470511
+74464,'74464','Term Panama Temp Q:11',45.46605,-73.470511
 74529,'74529','Robert-Bourassa / William',45.497412,-73.558424
 75018,'75018','Taschereau / Rome',45.454858,-73.465159
 76001,'76001','Principale Sud / Monette',45.381698,-73.541486
@@ -7,7 +7,7 @@
 76004,'76004','Mtée Des Bouleaux / Collège',45.377623,-73.545088
 76005,'76005','Mtée Des Bouleaux / Georges-Gagné Sud',45.378734,-73.550165
 76006,'76006','Mtée Des Bouleaux / Richer',45.378662,-73.554832
-76007,'76007','Terminus Panama Temporaire Quai 14',45.465785,-73.469949
+76007,'76007','Term Panama Temp Q:14',45.465785,-73.469949
 76008,'76008','Mtée Des Bouleaux / Circé',45.378809,-73.559368
 76009,'76009','St-Pierre / St-Jacques',45.378378,-73.564699
 76010,'76010','St-Pierre / Perras',45.375596,-73.567118
@@ -18,7 +18,7 @@
 76015,'76015','Jogues / Acadia',45.390888,-73.549613
 76016,'76016','Jogues / St-Laurent',45.393248,-73.548388
 76017,'76017','Mtée St-Régis / Pierre-Dupuis',45.367476,-73.577153
-76018,'76018','Terminus Panama Temporaire Quai 14',45.465744,-73.470103
+76018,'76018','Term Panama Temp Q:14',45.465744,-73.470103
 76019,'76019','Ste-Catherine / Ronsard',45.378407,-73.600469
 76020,'76020','Mairie / Bassin',45.373664,-73.577933
 76021,'76021','Mairie / Petit-St-Régis Sud',45.374233,-73.58037
@@ -52,7 +52,7 @@
 76063,'76063','St-Laurent / Faucons',45.394391,-73.559614
 76064,'76064','St-Laurent / Éperviers',45.395307,-73.563303
 76065,'76065','St-Laurent / Brébeuf',45.39588,-73.565485
-76066,'76066','Terminus Longueuil Porte 20',45.523797,-73.522256
+76066,'76066','Term Longueuil Porte 20',45.523797,-73.522256
 76067,'76067','Brébeuf / Ormes',45.390314,-73.568376
 76068,'76068','Ormes / Saules',45.391019,-73.57023
 76069,'76069','Ormes / Marronniers',45.391507,-73.572878
@@ -63,7 +63,7 @@
 76077,'76077','Roland-Therrien / Auteuil',45.547734,-73.495359
 76078,'76078','St-Jean / Bédard',45.396821,-73.573816
 76079,'76079','Brébeuf / Colibris',45.394614,-73.566216
-76080,'76080','Stat Incitatif Georges-Gagné - Quai 1',45.384414,-73.547999
+76080,'76080','Stat Incitatif Georges-Gagné - Q:1',45.384414,-73.547999
 76081,'76081','Centrale / St-Jean',45.397533,-73.577955
 76083,'76083','Gare Ste-Catherine',45.381625,-73.598659
 76084,'76084','Ste-Catherine / Marotte',45.384849,-73.596587
@@ -108,13 +108,13 @@
 76139,'76139','Proulx / Leduc',45.389478,-73.579475
 76140,'76140','Leduc / Levasseur',45.389296,-73.578499
 76141,'76141','Mtée Des Bouleaux / Collège',45.377584,-73.545427
-76142,'76142','Terminus Centre-Ville Porte 13',45.498142,-73.565918
+76142,'76142','Term Centre-Ville Porte 13',45.498142,-73.565918
 76143,'76143','Maçon / Magdeleine',45.392686,-73.589926
 76145,'76145','St-Pierre / St-Jacques',45.378145,-73.564606
 76146,'76146','Mtée Des Bouleaux / Circé',45.378709,-73.559713
 76147,'76147','Mtée Des Bouleaux / Cheminots',45.378678,-73.556459
 76148,'76148','Mtée Des Bouleaux / Georges-Gagné Sud',45.378618,-73.550913
-76149,'76149','Terminus Angrignon Quai 19',45.446554,-73.605265
+76149,'76149','Term Angrignon Q:19',45.446554,-73.605265
 76150,'76150','Georges-Gagné Sud / Viau',45.381122,-73.54906
 76153,'76153','Leduc / Laplante',45.388796,-73.576565
 76155,'76155','Mtée Des Bouleaux / Principale',45.376507,-73.540835
@@ -324,7 +324,7 @@
 76460,'76460','Église / Prémontrés',45.365682,-73.579649
 76461,'76461','Église / Victoria',45.365402,-73.576313
 76462,'76462','Victoria / Mtée St-Régis',45.366817,-73.57535
-76558,'76558','Stat Incitatif Georges-Gagné - Quai 2',45.384609,-73.547932
-76559,'76559','Stat Incitatif Georges-Gagné - Quai 3',45.384521,-73.547688
-76560,'76560','Stat Incitatif Georges-Gagné - Quai 4',45.384404,-73.547734
-76561,'76561','Stat Incitatif Georges-Gagné - Quai Taxi',45.384311,-73.548103
+76558,'76558','Stat Incitatif Georges-Gagné - Q:2',45.384609,-73.547932
+76559,'76559','Stat Incitatif Georges-Gagné - Q:3',45.384521,-73.547688
+76560,'76560','Stat Incitatif Georges-Gagné - Q:4',45.384404,-73.547734
+76561,'76561','Stat Incitatif Georges-Gagné - Q:Taxi',45.384311,-73.548103
