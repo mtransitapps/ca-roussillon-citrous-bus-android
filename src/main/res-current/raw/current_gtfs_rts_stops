@@ -23,7 +23,7 @@
 76020,'76020','Mairie / Bassin',45.373664,-73.577933
 76021,'76021','Mairie / Petit-St-Régis Sud',45.374233,-73.58037
 76022,'76022','Mairie / Monchamp',45.374218,-73.58383
-76023,'76023','Monchamp / Devant Le Centre Municipal',45.378063,-73.583483
+76023,'76023','Monchamp / Devant Le Ctr Municipal',45.378063,-73.583483
 76024,'76024','Monchamp / Olivier',45.37978,-73.584258
 76025,'76025','Monchamp / Vincent',45.381511,-73.585019
 76026,'76026','Monchamp / Ste-Catherine',45.38379,-73.584679
@@ -52,7 +52,7 @@
 76063,'76063','St-Laurent / Faucons',45.394391,-73.559614
 76064,'76064','St-Laurent / Éperviers',45.395307,-73.563303
 76065,'76065','St-Laurent / Brébeuf',45.39588,-73.565485
-76066,'76066','Term Longueuil Porte 20',45.523797,-73.522256
+76066,'76066','Term Longueuil P:20',45.523797,-73.522256
 76067,'76067','Brébeuf / Ormes',45.390314,-73.568376
 76068,'76068','Ormes / Saules',45.391019,-73.57023
 76069,'76069','Ormes / Marronniers',45.391507,-73.572878
@@ -108,7 +108,7 @@
 76139,'76139','Proulx / Leduc',45.389478,-73.579475
 76140,'76140','Leduc / Levasseur',45.389296,-73.578499
 76141,'76141','Mtée Des Bouleaux / Collège',45.377584,-73.545427
-76142,'76142','Term Centre-Ville Porte 13',45.498142,-73.565918
+76142,'76142','Term Ctr-Ville P:13',45.498142,-73.565918
 76143,'76143','Maçon / Magdeleine',45.392686,-73.589926
 76145,'76145','St-Pierre / St-Jacques',45.378145,-73.564606
 76146,'76146','Mtée Des Bouleaux / Circé',45.378709,-73.559713
@@ -182,7 +182,7 @@
 76229,'76229','Leber / Église',45.364802,-73.574353
 76230,'76230','Église / Saules',45.364329,-73.572629
 76231,'76231','Église / St-Pierre',45.3641,-73.570069
-76232,'76232','Mtée Lasaline / Centre',45.362224,-73.563714
+76232,'76232','Mtée Lasaline / Ctr',45.362224,-73.563714
 76233,'76233','Côté / Berger',45.364485,-73.5644
 76234,'76234','Beauvais / Boisjoli',45.365603,-73.56382
 76235,'76235','Beauvais / Boisbriand',45.367661,-73.562719
@@ -203,7 +203,7 @@
 76257,'76257','Principale Nord / Marie-Victorin',45.400473,-73.537693
 76261,'76261','Principale Nord / Marie-Victorin',45.400171,-73.538094
 76262,'76262','Principale Nord / St-Laurent',45.391051,-73.53913
-76269,'76269','Place Du Grand-Duc / Devant Le #4480',45.388604,-73.562589
+76269,'76269','Pl Du Grand-Duc / Devant Le #4480',45.388604,-73.562589
 76270,'76270','Éperviers / Alouettes',45.393896,-73.56445
 76271,'76271','Éperviers / Harfangs',45.392595,-73.56508
 76272,'76272','Sarcelles / Cormorans',45.39219,-73.566394
@@ -273,7 +273,7 @@
 76403,'76403','St-Laurent / Boulet',45.396725,-73.568091
 76405,'76405','Monchamp / Vincent',45.381696,-73.585364
 76406,'76406','Principale Sud / Devant La Gare Delson',45.366755,-73.541556
-76407,'76407','Marie-Victorin / Place Charles-Lemoyne',45.401022,-73.547079
+76407,'76407','Marie-Victorin / Pl Charles-Lemoyne',45.401022,-73.547079
 76408,'76408','St-Laurent / Bédard',45.399339,-73.572824
 76409,'76409','St-Laurent / Boulet',45.396751,-73.56849
 76410,'76410','Principale Nord / Soucy',45.397379,-73.538099
