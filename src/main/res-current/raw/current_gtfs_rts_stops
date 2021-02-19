@@ -23,7 +23,7 @@
 76020,'76020','Mairie / Bassin',45.373664,-73.577933
 76021,'76021','Mairie / Petit-St-Régis Sud',45.374233,-73.58037
 76022,'76022','Mairie / Monchamp',45.374218,-73.58383
-76023,'76023','Monchamp / Devant Le Ctr Municipal',45.378063,-73.583483
+76023,'76023','Monchamp / Ctr Municipal',45.378063,-73.583483
 76024,'76024','Monchamp / Olivier',45.37978,-73.584258
 76025,'76025','Monchamp / Vincent',45.381511,-73.585019
 76026,'76026','Monchamp / Ste-Catherine',45.38379,-73.584679
@@ -58,12 +58,12 @@
 76069,'76069','Ormes / Marronniers',45.391507,-73.572878
 76070,'76070','Ormes / Merisiers',45.391919,-73.574551
 76071,'76071','Merisiers / Croissant Des Cèdres',45.394458,-73.573453
-76074,'76074','Centrale / Devant Le #1724',45.394413,-73.579653
+76074,'76074','Centrale / #1724',45.394413,-73.579653
 76076,'76076','Écluses / St-Laurent',45.39497,-73.557365
 76077,'76077','Roland-Therrien / Auteuil',45.547734,-73.495359
 76078,'76078','St-Jean / Bédard',45.396821,-73.573816
 76079,'76079','Brébeuf / Colibris',45.394614,-73.566216
-76080,'76080','P+R Georges-Gagné - Q:1',45.384414,-73.547999
+76080,'76080','P+R Georges-Gagné Q:1',45.384414,-73.547999
 76081,'76081','Centrale / St-Jean',45.397533,-73.577955
 76083,'76083','Gare Ste-Catherine',45.381625,-73.598659
 76084,'76084','Ste-Catherine / Marotte',45.384849,-73.596587
@@ -90,13 +90,13 @@
 76115,'76115','St-Pierre / Beaudry',45.382838,-73.559666
 76116,'76116','St-Pierre / Lachapelle',45.384732,-73.558815
 76118,'76118','Marie-Victorin / CLSC Candiac',45.398579,-73.526219
-76119,'76119','Marie-Victorin / Devant CLSC Candiac',45.398856,-73.526406
+76119,'76119','Marie-Victorin / CLSC Candiac',45.398856,-73.526406
 76120,'76120','Ste-Catherine / Valois',45.385053,-73.589369
 76121,'76121','Ste-Catherine / Monchamp',45.384241,-73.585783
 76122,'76122','Vérendrye / Jolicoeur (Métro Jolicoeur)',45.457111,-73.581231
 76123,'76123','Lausanne / Proulx',45.38741,-73.580707
 76124,'76124','Monchamp / Olivier',45.379903,-73.584585
-76125,'76125','Monchamp / Devant L''École Félix-Leclerc',45.378066,-73.583844
+76125,'76125','Monchamp / École Félix-Leclerc',45.378066,-73.583844
 76126,'76126','Mairie / Monchamp',45.374117,-73.583524
 76127,'76127','Mairie / Petit-St-Régis Sud',45.37418,-73.580687
 76128,'76128','Mairie / Bassin',45.373624,-73.57827
@@ -144,7 +144,7 @@
 76183,'76183','Chalutier / St-Laurent',45.394251,-73.554097
 76184,'76184','Cascades / Chalutier',45.395289,-73.553903
 76185,'76185','Écluses / Colomb',45.391619,-73.555867
-76186,'76186','Écluses / Devant Le Domaine Le Roussillon',45.389252,-73.557008
+76186,'76186','Écluses / Domaine Le Roussillon',45.389252,-73.557008
 76189,'76189','St-Pierre / Lachapelle',45.385008,-73.558833
 76190,'76190','St-Pierre / Beaudry',45.383606,-73.559638
 76191,'76191','Ste-Catherine / Croissant Ste-Catherine',45.385882,-73.594056
@@ -203,7 +203,7 @@
 76257,'76257','Principale Nord / Marie-Victorin',45.400473,-73.537693
 76261,'76261','Principale Nord / Marie-Victorin',45.400171,-73.538094
 76262,'76262','Principale Nord / St-Laurent',45.391051,-73.53913
-76269,'76269','Pl Du Grand-Duc / Devant Le #4480',45.388604,-73.562589
+76269,'76269','Pl Du Grand-Duc / #4480',45.388604,-73.562589
 76270,'76270','Éperviers / Alouettes',45.393896,-73.56445
 76271,'76271','Éperviers / Harfangs',45.392595,-73.56508
 76272,'76272','Sarcelles / Cormorans',45.39219,-73.566394
@@ -230,7 +230,7 @@
 76299,'76299','Ste-Catherine / Proulx',45.383573,-73.582401
 76300,'76300','SmartCentres St-Constant',45.392084,-73.58611
 76303,'76303','Église / Leber',45.364893,-73.574628
-76304,'76304','Centrale / Devant Le #1725',45.394294,-73.579391
+76304,'76304','Centrale / #1725',45.394294,-73.579391
 76305,'76305','Bédard / St-Jean',45.396907,-73.574078
 76307,'76307','Merisiers / Croissant Des Cèdres',45.394646,-73.573531
 76308,'76308','Merisiers / Ormes',45.392092,-73.574766
@@ -245,7 +245,7 @@
 76320,'76320','Paul-Gauguin / #20',45.376649,-73.529135
 76321,'76321','Liberté / St-François-Xavier',45.377961,-73.535607
 76322,'76322','Liberté / St-François-Xavier',45.377754,-73.53546
-76323,'76323','Paul-Gauguin / Devant Le #20',45.376522,-73.529297
+76323,'76323','Paul-Gauguin / #20',45.376522,-73.529297
 76324,'76324','Paul-Gauguin / Liberté',45.373181,-73.526437
 76325,'76325','Industrielle / Liberté',45.36747,-73.522413
 76326,'76326','Industrielle / Beauvais',45.370866,-73.52913
@@ -258,7 +258,7 @@
 76366,'76366','Marie-Victorin / Récifs',45.401951,-73.553951
 76367,'76367','Marie-Victorin / Écluses',45.402562,-73.557092
 76368,'76368','Marie-Victorin / Brébeuf',45.403568,-73.561565
-76369,'76369','Marie-Victorin / Devant Le Parc Optimiste',45.404173,-73.563805
+76369,'76369','Marie-Victorin / Parc Optimiste',45.404173,-73.563805
 76371,'76371','Marie-Victorin / Canal',45.406025,-73.568494
 76373,'76373','Marie-Victorin / Union',45.405837,-73.57216
 76374,'76374','St-Laurent / Union',45.400194,-73.575472
@@ -272,7 +272,7 @@
 76402,'76402','St-Laurent / Chalutier',45.394182,-73.553781
 76403,'76403','St-Laurent / Boulet',45.396725,-73.568091
 76405,'76405','Monchamp / Vincent',45.381696,-73.585364
-76406,'76406','Principale Sud / Devant La Gare Delson',45.366755,-73.541556
+76406,'76406','Principale Sud / Gare Delson',45.366755,-73.541556
 76407,'76407','Marie-Victorin / Pl Charles-Lemoyne',45.401022,-73.547079
 76408,'76408','St-Laurent / Bédard',45.399339,-73.572824
 76409,'76409','St-Laurent / Boulet',45.396751,-73.56849
@@ -324,7 +324,7 @@
 76460,'76460','Église / Prémontrés',45.365682,-73.579649
 76461,'76461','Église / Victoria',45.365402,-73.576313
 76462,'76462','Victoria / Mtée St-Régis',45.366817,-73.57535
-76558,'76558','P+R Georges-Gagné - Q:2',45.384609,-73.547932
-76559,'76559','P+R Georges-Gagné - Q:3',45.384521,-73.547688
-76560,'76560','P+R Georges-Gagné - Q:4',45.384404,-73.547734
-76561,'76561','P+R Georges-Gagné - Q:Taxi',45.384311,-73.548103
+76558,'76558','P+R Georges-Gagné Q:2',45.384609,-73.547932
+76559,'76559','P+R Georges-Gagné Q:3',45.384521,-73.547688
+76560,'76560','P+R Georges-Gagné Q:4',45.384404,-73.547734
+76561,'76561','P+R Georges-Gagné Q:Taxi',45.384311,-73.548103
