@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus exo Roussillon à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_Roussillon sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_Sud sur Twitter.
 
 exo Roussillon dessert Delson, Saint-Constant et Sainte-Catherine au Québec, Canada.
 

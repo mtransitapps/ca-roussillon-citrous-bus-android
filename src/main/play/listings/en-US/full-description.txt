@@ -1,6 +1,6 @@
 This application adds exo Roussillon buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_Roussillon on Twitter.
+This app contains the buses schedule and the latest news from @allo_exo and @exo_Sud on Twitter.
 
 exo Roussillon serves Delson, Saint-Constant and Sainte-Catherine in Québec, Canada.
 
