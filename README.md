@@ -1,5 +1,7 @@
 # exo exo Le Richelain / Roussillon buses for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
+# ARCHIVED -> https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
+
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-roussillon-citrous-bus-android/master/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
 ## Download on Google Play
